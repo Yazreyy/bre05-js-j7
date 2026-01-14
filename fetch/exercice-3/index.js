@@ -1,5 +1,5 @@
 let formData = new FormData();
-formData.append('username', "Marloon");
+formData.append('username', 'Marloon');
 formData.append('firstName', "Marlonn");
 formData.append('lastName', "Gillet");
 formData.append('email', "marlonn.gillet@3wa.io");
